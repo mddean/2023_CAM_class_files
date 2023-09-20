@@ -1,0 +1,11 @@
+﻿cust_id,join_date,gender,age,marital_status,household_income,home_ownership,num_children,num_vehicles,last_purchase_date
+CUST-347097,5/31/2019 4:47,F,39,married,395407,rent,3,0,4/3/2021 7:25
+CUST-099401,8/10/2017 10:11,F,27,married,276421,unknown,0,5,9/5/2021 22:33
+CUST-575928,8/18/2019 4:24,F,44,married,372690,own,2,5,1/21/2021 1:52
+CUST-992559,8/31/2017 2:13,F,42,married,480710,own,2,5,12/7/2021 11:04
+CUST-643714,9/22/2021 8:46,F,33,married,308060,own,2,3,7/24/2021 9:21
+CUST-221883,11/19/2019 7:00,F,28,married,374325,own,0,1,5/8/2021 4:08
+CUST-111216,4/9/2017 16:05,M,55,unmarried,77752,own,3,1,4/30/2021 5:37
+CUST-773741,4/27/2021 19:22,F,37,married,431254,rent,4,2,9/8/2021 16:05
+CUST-082760,7/12/2017 22:21,F,27,married,403884,rent,5,1,11/24/2021 23:40
+CUST-857477,1/8/2019 2:03,F,29,married,321828,own,0,3,9/2/2021 17:56
